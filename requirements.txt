@@ -1,0 +1,9 @@
+ipykernel
+langchain-community
+langchain
+bs4
+langchain-text-splitters
+langchain-ollama
+faiss-cpu
+langchain-core
+streamlit
